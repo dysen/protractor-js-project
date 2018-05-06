@@ -22,7 +22,7 @@ Herein lies an example [Protractor](http://protractortest.org) project, that inc
 * run tests via plain Protractor `node_modules/.bin/protractor conf.js`
 * run tests `npm test` (runs via flake, which re-runs failed tests)
 * run with flake `./flake conf.js`
-* run on saucelabs`./flake sauceConf.js` (add your username/key)
+* 111111run on saucelabs`./flake sauceConf.js` (add your username/key)
 
 Or if you're a non-reader, [watch the video...](https://www.youtube.com/watch?v=JIGvty1bQxk)
 
